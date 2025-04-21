@@ -1,0 +1,15 @@
+#start
+
+outl
+Welcome to package Test
+
+in
+
+#if_command
+1
+
+outl
+number_command_swift
+#end_command
+
+#end
