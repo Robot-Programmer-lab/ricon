@@ -1,3 +1,0 @@
-#start
-check_ricon
-#end
